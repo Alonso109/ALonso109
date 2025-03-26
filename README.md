@@ -4,8 +4,7 @@
 
 👨‍💻 Yerny Mata
 
-🚀¡Hola! Soy Yerny Mata, un apasionado programador junior especializado en el desarrollo de páginas web y pequeñas aplicaciones de software.  
-Estoy en constante aprendizaje para mejorar mis habilidades y contribuir con soluciones creativas y eficientes en el ámbito del desarrollo tecnológico.
+🚀¡Hola! Soy Yerny Mata, un apasionado programador junior especializado en el desarrollo de páginas web y pequeñas aplicaciones de software. Estoy en constante aprendizaje para mejorar mis habilidades y contribuir con soluciones creativas y eficientes en el ámbito del desarrollo tecnológico.
 
 
 ## Tecnologías
